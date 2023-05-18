@@ -1,0 +1,15 @@
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\obj\Debug\net6.0\Example005_Condition_IFELSE.csproj.AssemblyReference.cache
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\obj\Debug\net6.0\Example005_Condition_IFELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\obj\Debug\net6.0\Example005_Condition_IFELSE.AssemblyInfoInputs.cache
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\obj\Debug\net6.0\Example005_Condition_IFELSE.AssemblyInfo.cs
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\obj\Debug\net6.0\Example005_Condition_IFELSE.csproj.CoreCompileInputs.cache
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\bin\Debug\net6.0\Example005_Condition_IFELSE.exe
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\bin\Debug\net6.0\Example005_Condition_IFELSE.deps.json
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\bin\Debug\net6.0\Example005_Condition_IFELSE.runtimeconfig.json
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\bin\Debug\net6.0\Example005_Condition_IFELSE.dll
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\bin\Debug\net6.0\Example005_Condition_IFELSE.pdb
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\obj\Debug\net6.0\Example005_Condition_IFELSE.dll
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\obj\Debug\net6.0\refint\Example005_Condition_IFELSE.dll
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\obj\Debug\net6.0\Example005_Condition_IFELSE.pdb
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\obj\Debug\net6.0\Example005_Condition_IFELSE.genruntimeconfig.cache
+C:\Users\radio\OneDrive\Документы\Examples\Example005_Condition_IFELSE\obj\Debug\net6.0\ref\Example005_Condition_IFELSE.dll
